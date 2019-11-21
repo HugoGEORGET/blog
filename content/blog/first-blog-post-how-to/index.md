@@ -33,7 +33,7 @@ You can even submit your own starters to be featured in the [Starter Library](ht
 
 To create a new local repository containing the Gatsby Starter Blog, use the following command :
 
-```shell
+```bash
 gatsby new blog https://github.com/gatsbyjs/gatsby-starter-blog
 ```
 
@@ -41,7 +41,7 @@ This command will create and put the project files in the `blog` folder, as well
 
 After that, execute the following commands and start coding !
 
-```shell
+```bash
 cd blog
 gatsby develop
 ```
@@ -53,7 +53,7 @@ gatsby develop
 
 To deploy your local Gatsby site to GitHub Pages, you will need to add the `gh-pages` package to your project.
 
-```shell
+```bash
 npm i gh-pages --save-dev
 ```
 
